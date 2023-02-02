@@ -27,3 +27,5 @@ echo "file 2_3.txt created"
 chmod u=rw */*_1.txt
 chmod u=rw */*_3.txt
 chmod u=rwx */*_2.txt
+
+echo "Job completed"
