@@ -1,5 +1,11 @@
 #!/bin/bash
 
+rm -r fol_1
+echo "fol_1 deleted"
+
+rm -r fol_2
+echo "fol_2 deleted"
+
 mkdir fol_1
 echo "fol_1 created"
 touch fol_1/1_1.txt
