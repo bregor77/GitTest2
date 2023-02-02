@@ -23,3 +23,7 @@ touch fol_2/2_2.txt
 echo "file 2_2.txt created"
 touch fol_2/2_3.txt
 echo "file 2_3.txt created"
+
+chmod u=rw */*_1.txt
+chmod u=rw */*_3.txt
+chmod u=rwx */*_2.txt
